@@ -385,7 +385,7 @@
             "BTTTouchBarAlternateBackgroundColor" : "0.000000, 0.000000, 0.000000, 0.000000",
             "BTTTouchBarButtonCornerRadius" : 6,
             "BTTTouchBarScriptUpdateInterval" : 0,
-            "BTTTouchBarAppleScriptString" : "tell application \"BetterTouchTool 2\"\n\tset_number_variable \"current\" to 0\n\trepeat 16 times\r\t\texecute_assigned_actions_for_trigger \"AE1FCD12-E8A2-418C-810D-838951526320\"\r\tend repeat\rend tell\nreturn 0.0",
+            "BTTTouchBarAppleScriptString" : "tell application \"BetterTouchTool\"\n\tset_number_variable \"current\" to 0\n\trepeat 16 times\r\t\texecute_assigned_actions_for_trigger \"AE1FCD12-E8A2-418C-810D-838951526320\"\r\tend repeat\rend tell\nreturn 0.0",
             "BTTTBWidgetWidth" : 160,
             "BTTTBDrawKnobWithoutPadding" : true,
             "BTTTouchBarShowRightIconForSlider" : true,
